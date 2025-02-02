@@ -1,10 +1,10 @@
 # 🚀 Hi, I'm Sameer Nimje!  
 ### Full Stack Developer | Java | React | Node.js  
 
-- 🔭 Currently working on: **[Your Project Name](Project Link)**  
-- 🌱 Currently learning: **Java DSA | System Design**  
-- 👯 Open to collaborating on: **Web & Mobile App Development**  
-- 💬 Ask me about: **MERN Stack, Java, PostgreSQL, and Cloud Deployment**  
+- 🔭 Currently working on: **LMS Platform**  
+- 🌱 Currently learning: **Java DSA | System Design | Full Stack Development**  
+- 👯 Open to collaborating on: **Web App Development**  
+- 💬 Ask me about: **MERN Stack, Java, PostgreSQL**  
 - 📫 How to reach me: **sameernimje29@outlook.com | [LinkedIn]**  
 
 ---
