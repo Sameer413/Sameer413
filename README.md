@@ -1,8 +1,8 @@
 # 🚀 Hi, I'm Sameer Nimje!  
 ### Full Stack Developer | Java | React | Node.js  
 
-- 🔭 Currently working on: **LMS Platform**  
-- 🌱 Currently learning: **Java DSA | System Design | Full Stack Development**  
+- 🔭 Currently working on: **DineFlow POS**  
+- 🌱 Currently learning: **Java DSA | FastAPI | Full Stack Development**  
 - 👯 Open to collaborating on: **Web App Development**  
 - 💬 Ask me about: **MERN Stack, Java, PostgreSQL**  
 - 📫 How to reach me: **sameernimje29@outlook.com | [LinkedIn]**  
