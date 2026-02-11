@@ -51,14 +51,6 @@ Results-driven software developer experienced in building **scalable web applica
 
 ---
 
-### **Backend Developer Intern**  
-**SimplifyX (Remote)**  
-🗓️ *Jan 2025 – Jul 2025*
-
-- Developed Spring Boot REST APIs for supply chain operations.
-- Designed and optimized PostgreSQL database schemas.
-- Implemented pagination, filtering, and search for large datasets.
-- Integrated backend services with React.js frontend features.
 
 ---
 
