@@ -48,7 +48,6 @@ Data Structures · OOP · REST APIs · System Design · Concurrency · Caching �
 ## 💼 Experience
 
 ### **Associate System Engineer**
-
 **IBM India Pvt Ltd, Chennai**
 🗓️ *May 2026 – Present*
 
