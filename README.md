@@ -31,7 +31,7 @@ Currently working with Java, Spring Boot, PostgreSQL, and Playwright while build
   <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
 </p>
 
-###🔹 Testing
+### 🔹 Testing
 <p align="left"> <img src="https://skillicons.dev/icons?i=jest" /> </p>
 <p> <b>Playwright</b> · <b>Selenium</b> · Automated Testing · Regression Testing </p>
 
